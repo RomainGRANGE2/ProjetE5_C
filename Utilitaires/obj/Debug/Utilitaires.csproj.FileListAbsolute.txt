@@ -1,0 +1,12 @@
+G:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\Utilitaires\bin\Debug\Utilitaires.dll
+G:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\Utilitaires\bin\Debug\Utilitaires.pdb
+G:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\Utilitaires\obj\Debug\Utilitaires.csprojAssemblyReference.cache
+G:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\Utilitaires\obj\Debug\Utilitaires.csproj.CoreCompileInputs.cache
+G:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\Utilitaires\obj\Debug\Utilitaires.dll
+G:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\Utilitaires\obj\Debug\Utilitaires.pdb
+E:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\Utilitaires\bin\Debug\Utilitaires.dll
+E:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\Utilitaires\bin\Debug\Utilitaires.pdb
+E:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\Utilitaires\obj\Debug\Utilitaires.csprojAssemblyReference.cache
+E:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\Utilitaires\obj\Debug\Utilitaires.csproj.CoreCompileInputs.cache
+E:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\Utilitaires\obj\Debug\Utilitaires.dll
+E:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\Utilitaires\obj\Debug\Utilitaires.pdb

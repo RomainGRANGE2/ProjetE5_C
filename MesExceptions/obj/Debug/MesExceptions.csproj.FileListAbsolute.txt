@@ -1,0 +1,12 @@
+G:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\MesExceptions\bin\Debug\MesExceptions.dll
+G:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\MesExceptions\bin\Debug\MesExceptions.pdb
+G:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\MesExceptions\obj\Debug\MesExceptions.csprojAssemblyReference.cache
+G:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\MesExceptions\obj\Debug\MesExceptions.csproj.CoreCompileInputs.cache
+G:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\MesExceptions\obj\Debug\MesExceptions.dll
+G:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\MesExceptions\obj\Debug\MesExceptions.pdb
+E:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\MesExceptions\bin\Debug\MesExceptions.dll
+E:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\MesExceptions\bin\Debug\MesExceptions.pdb
+E:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\MesExceptions\obj\Debug\MesExceptions.csproj.CoreCompileInputs.cache
+E:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\MesExceptions\obj\Debug\MesExceptions.dll
+E:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\MesExceptions\obj\Debug\MesExceptions.pdb
+E:\2emeAnnée\ProjetE5\ProjetE5_C\ProjetE5_C\MesExceptions\obj\Debug\MesExceptions.csprojAssemblyReference.cache

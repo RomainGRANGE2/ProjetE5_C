@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="bfb28bd43a3047adbd5aa9d0ad6609e3" Name="Diagram1">
+        <EntityTypeShape EntityType="RG_GSBE5CModel.activite_compl" Width="1.5" PointX="6.75" PointY="34.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.composant" Width="1.5" PointX="3" PointY="13.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.constituer" Width="1.5" PointX="5.25" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.dosage" Width="1.5" PointX="6" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.etat" Width="1.5" PointX="3.75" PointY="30.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.famille" Width="1.5" PointX="0.75" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.formuler" Width="1.5" PointX="5.25" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.frais" Width="1.5" PointX="6" PointY="24.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.fraisforfait" Width="1.5" PointX="9" PointY="20.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.fraishorsforfait" Width="1.5" PointX="8.25" PointY="30.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.interagir" Width="1.5" PointX="5.25" PointY="14.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.inviter" Width="1.5" PointX="12" PointY="28.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.laboratoire" Width="1.5" PointX="1.5" PointY="22.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.ligne_fraisforfait" Width="1.5" PointX="11.25" PointY="25.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.medicament" Width="1.5" PointX="3" PointY="8.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.offrir" Width="1.5" PointX="8.25" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.posseder" Width="1.5" PointX="8" PointY="17.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.praticien" Width="1.5" PointX="3.75" PointY="17.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.prescrire" Width="1.5" PointX="8.25" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.presentation" Width="1.5" PointX="3" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.rapport_visite" Width="1.5" PointX="6" PointY="20.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.realiser" Width="1.5" PointX="9" PointY="23.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.region" Width="1.5" PointX="3.75" PointY="27.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.secteur" Width="1.5" PointX="1.5" PointY="24.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.specialite" Width="1.5" PointX="5.75" PointY="37.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.stats_prescriptions" Width="1.5" PointX="8.25" PointY="12.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.travailler" Width="1.5" PointX="9" PointY="26.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.type_individu" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.type_praticien" Width="1.5" PointX="1.5" PointY="18.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RG_GSBE5CModel.visiteur" Width="1.5" PointX="3.75" PointY="22" IsExpanded="true" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_inviter_activite_compl" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_realiser_activite_compl" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_constituer_composant" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_constituer_medicament" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_prescrire_dosage" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_frais_etat" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_medicament_famille" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_formuler_medicament" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_formuler_presentation" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_frais_visiteur" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_fraishorsforfait_frais" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_ligne_frais" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_ligne_fraisforfait" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_interagir_medicament" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_interagir_medicament_dest" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_inviter_praticien" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_visiteur_laboratoire" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_offrir_medicament" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_prescrire_medicament" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_stats_prescriptions_medicament" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_offrir_rapport_visite" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_offrir_visiteur" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_posseder_praticien" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_posseder_specialite" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_praticien_type_praticien" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_rapport_visite_praticien" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_stats_prescriptions_praticien" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_prescrire_type_individu" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_rapport_visite_visiteur" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_realiser_visiteur" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_region_secteur" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_travailler_region" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_visiteur_secteur" ManuallyRouted="false" />
+        <AssociationConnector Association="RG_GSBE5CModel.fk_travailler_visiteur" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
